@@ -10,3 +10,4 @@ In this project, I investigated the statistical drivers behind historical NBA MV
 * Presentation: Deployed a Quarto dashboard featuring responsive Plotly radar charts for multi-dimensional athletic profile comparisons.
 
 My model predicted Nikola Jokic as the 2025-26 NBA MVP. However, Shai Alexander was the player who won the award that year. But even though the model might seem inaccurate, in all trials, Jokic was closely followed by Shai.  
+For the results, refer to the HTML file.
